@@ -86,6 +86,9 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
+![Zed GitHub stats](https://github-readme-stats.vercel.app/api?username=fikii777&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikii777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
