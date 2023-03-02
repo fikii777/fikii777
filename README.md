@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm fikii777</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
+<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
+
+![](https://github.com/fikii777/fikii777/blob/main/gif-coder.gif)
+
+Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or on a live stream!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikii777&label=Profile%20views&color=0e75b6&style=flat" alt="fikii777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mf201000" target="blank"><img src="https://img.shields.io/twitter/follow/mf201000?logo=twitter&style=for-the-badge" alt="mf201000" /></a> </p>
