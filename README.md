@@ -9,7 +9,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikii777&label=Profile%20views&color=0e75b6&style=flat" alt="fikii777" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mf201000" target="blank"><img src="https://img.shields.io/twitter/follow/mf201000?logo=twitter&style=for-the-badge" alt="mf201000" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MFikri201000" target="blank"><img src="https://img.shields.io/twitter/follow/mf201000?logo=twitter&style=for-the-badge" alt="MFikri201000" /></a> </p>
 
 - 🔭 I’m currently working on **vvv**
 
@@ -21,7 +21,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mf201000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mf201000" height="30" width="40" /></a>
+<a href="https://twitter.com/MFikri201000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mf201000" height="30" width="40" /></a>
 <a href="https://fb.com/m fikri asyhab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m fikri asyhab" height="30" width="40" /></a>
 <a href="https://instagram.com/fkrarsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkrarsy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fkr gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fkr gaming" height="30" width="40" /></a>
