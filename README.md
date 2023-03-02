@@ -59,6 +59,23 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
 -->
 
+ <th><a href="source/plugins/achievements/README.md">🏆 Achievements</a></th>
+    <th><a href="source/plugins/notable/README.md">🎩 Notable contributions</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
+        <details><summary>Detailed display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Indepth analysis</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.indepth.svg" alt=""></img></details>
+        <details><summary>Contributions in organizations only</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  <tr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MFikri201000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mf201000" height="30" width="40" /></a>
