@@ -93,7 +93,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Fikii777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Fikii777" /></a><a href="https://ko-fi.com/fikii777"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fikii777" /></a></p><br><br>
